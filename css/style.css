@@ -144,11 +144,11 @@ img {
 }
 
 .social-wa {
-    background-image: url(/img/wa.svg);
+    background-image: url(../img/wa.svg);
 }
 
 .social-tg {
-    background-image: url(/img/tg.svg);
+    background-image: url(../img/tg.svg);
 }
 
 .header-phone {
